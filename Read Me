@@ -1,0 +1,19 @@
+
+
+Sample_food_application
+
+C#, Visual Studio, .Net framework
+__________________________________________________________________________________________________________________________________
+Aby aplikacja działała, należy stworzyć bazę dany o nazwie "food" i tablelę:
+- "data" z odpowiednimi kolumnami: id(int,PRIMARY KEY,AUTO_INCREMENT), Login(varchar), Password(varchar), Resort(varchar), Street(varchar), NumerHouse(varchar). 
+- "product" z odpowiednimi kolumnami: id(int,PRIMARY KEY,AUTO_INCREMENT), Name(varchar), Price(varchar).
+
+Można także importować plik "food.sql".
+Polecam: XAMPP(ApacheE,MySQL) ---> 127.0.0.1 Wpisac w przegldarke --> importuj ---> wybrac plik "user.sql" ---> Wykonaj.
+__________________________________________________________________________________________________________________________________
+For the application to work, you need to create a database named "user" and table:
+- "data" with appropriate columns: id(int,PRIMARY KEY,AUTO_INCREMENT), Login(varchar), Password(varchar), Resort(varchar), Street(varchar), NumerHouse(varchar). 
+- "product" with appropriate columns: id(int,PRIMARY KEY,AUTO_INCREMENT), Name(varchar), Price(varchar).
+
+You can also import the "food.sql" file.
+I recommend: XAMPP (ApacheE, MySQL) ---> 127.0.0.1 Enter in the browser -> import ---> select the file "user.sql" ---> Execute.
